@@ -2,34 +2,21 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+> I have never used Visual Studio Code or any other IDE and found it pretty confusing. I am new to coding and wasn't sure where to look to find explanations of the different commands that Python uses. I do think that Visual Studio Code (VSE) is easier to use for coding than a word processing program would be. This is because VSE uses color, indentation, and vertical lines to help the user organize their code and write statements that are free of errors. I found that the features of VSE helped me to write code that could be understood by someone else, and it helped me keep errors out of my code. 
 
-TODO: Replace with your introduction here.
+## Feature 1 – Color
 
-## Feature 1 – TODO: Replace with name of your Feature1
+> I noticed right away that VSE uses color to help me organize my code. For example, pseudocode statements appear in light blue. This helped me know that these statements weren't doing anything; they are just meant to help me and anyone else who opens the document understand what the program is supposed to do. I noticed that "def" was in red and "print" and "if" were in purple, but I'm not sure what the significance of these colors is. 
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Identation
 
-TODO: Replace with your Feature 1 paragraph here.
+> In the Main Function section, I noticed that typing "if" made a suggested line appear below, with "main" indented. This was to help me remember that these two lines go together and are part of the same function. Likewise, typing "sample input", made "name" and "age" be suggested below, and indented. Since the program is meant to ask the user for their name and age as the input, these lines are indented under "sample input" to show that they go together. 
 
-## Feature 2 – TODO: Replace with name of your Feature2
+## Feature 3 – Vertical Lines
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+> VSE put a subtle vertical line to the left of all the statements in each section of the program. For example, everything under "def" in the "Main Function" had a vertical line running to the left of it. This visual aide helped me keep track of things that go together. A word processing document would not organize statements in this way. Different sections of the pseudocode also had vertical lines that helped organize things like input, process, and output.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
+> In conclusion, an IDE like visual studio code is easier to use than a word processing program for someone like me who is new to coding. I'm still confused about the commands and formats that are used in Python, but I am excited to learn more in the next module. 
 
-TODO: Replace with your conclusion here.
-
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
